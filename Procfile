@@ -1,0 +1,1 @@
+web: sh setup.sh && strea mlit run app.py
